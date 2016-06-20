@@ -2,4 +2,4 @@
 
 Updated readme
 
-Foo
+Bar
